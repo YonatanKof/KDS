@@ -1,2 +1,3 @@
-# Koftus
- getting familiar with Kactus
+# Koftus 🙈🌵
+
+Getting familiar with Kactus 
