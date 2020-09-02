@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Inter-SemiBold",
+              "name": "Inter-Bold",
               "size": 24
             }
           },
@@ -25,7 +25,7 @@
             "alignment": 0,
             "maximumLineHeight": 32,
             "minimumLineHeight": 32,
-            "paragraphSpacing": 12
+            "paragraphSpacing": 8
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 32,
-    "width": 90,
+    "width": 91,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{1, 7}, {88, 24}}",
+  "glyphBounds": "{{1, 7}, {89, 24}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -71,6 +71,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "4B9DC05B-5C33-4DF8-BADC-25F8F672DE30",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -129,7 +130,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Inter-SemiBold",
+            "name": "Inter-Bold",
             "size": 24
           }
         },
@@ -138,7 +139,7 @@
           "alignment": 0,
           "maximumLineHeight": 32,
           "minimumLineHeight": 32,
-          "paragraphSpacing": 12
+          "paragraphSpacing": 8
         },
         "textStyleVerticalAlignmentKey": 0
       },

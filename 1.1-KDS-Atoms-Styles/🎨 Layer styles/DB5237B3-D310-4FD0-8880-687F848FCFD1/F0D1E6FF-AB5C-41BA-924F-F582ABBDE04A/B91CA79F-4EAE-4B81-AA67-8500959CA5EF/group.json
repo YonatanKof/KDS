@@ -17,7 +17,7 @@
     "constrainProportions": false,
     "height": 18,
     "width": 776,
-    "x": 81,
+    "x": 79,
     "y": 78
   },
   "groupLayout": {
@@ -53,7 +53,7 @@
       "id": "6A4B70E4-5C0F-42A1-BEB9-EFC1973DFCDB"
     }
   ],
-  "name": "Group 3",
+  "name": "text",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

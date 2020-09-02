@@ -41,8 +41,8 @@
       "id": "3FE0DAE9-C29E-4015-A2D9-E720774A5F03"
     }
   ],
-  "name": "Group 2",
-  "nameIsFixed": false,
+  "name": "Text",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

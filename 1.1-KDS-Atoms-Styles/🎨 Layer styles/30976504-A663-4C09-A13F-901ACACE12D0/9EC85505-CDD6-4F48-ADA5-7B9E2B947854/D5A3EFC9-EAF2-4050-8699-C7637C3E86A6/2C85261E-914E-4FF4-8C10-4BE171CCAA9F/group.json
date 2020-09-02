@@ -49,8 +49,8 @@
       "id": "BAD85972-4CD4-4C02-A321-DCC8B3CF1AFA"
     }
   ],
-  "name": "Group 6",
-  "nameIsFixed": false,
+  "name": "Text",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

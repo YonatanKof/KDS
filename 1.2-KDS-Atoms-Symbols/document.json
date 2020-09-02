@@ -678,11 +678,11 @@
     "version": 131
   },
   "pages": [
-    "Cover",
-    "States",
-    "Icons",
-    "Brand",
-    "Spacing"
+    "🖼 Cover",
+    "☸️ States",
+    "🛅 Icons",
+    "🐄 Brand",
+    "🛰 Spacing"
   ],
   "sharedSwatches": {
     "_class": "swatchContainer",

@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 414,
+    "height": 412,
     "width": 1206,
     "x": 63,
     "y": 172
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -57,7 +57,7 @@
       "id": "FDBD792E-DE34-4908-B19C-E5EBCA95DF60"
     }
   ],
-  "name": "text",
+  "name": "Text",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

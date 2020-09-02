@@ -3238,6 +3238,117 @@
       "remoteStyleID": "1B9F8D52-F66F-4821-8DCB-589A605E7DFA[6E271EAB-3889-43FF-A493-798B99D3BB1E]",
       "sourceLibraryName": "KDS1-Atoms-Styles (The second go)",
       "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "do_objectID": "990396D8-3577-4DB9-91B8-1AEAAECCEF1D",
+      "libraryID": "8daca94f-20f4-4694-a1e7-452c57a2e98d",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "EAFB266D-B8FF-455C-93D4-A24B6EB28D16",
+        "name": "general - color/system/opacity - 40 - low",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": false,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 0.13
+          },
+          "do_objectID": "6FAAF51F-A154-487A-9F37-BAA61EED9C5F",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.1,
+                "green": 0.1,
+                "red": 0.1
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "193221EB-A7C2-414D-8F21-49C862313631",
+      "sourceLibraryName": "1.1-KDS-Atoms-Styles",
+      "symbolPrivate": false
     }
   ],
   "foreignSwatches": [
@@ -16903,12 +17014,12 @@
     "version": 131
   },
   "pages": [
-    "Cover",
-    "Dividers",
-    "Pairs - Text & Icon",
-    "Buttons",
-    "Form Inputs",
-    "Navigation"
+    "🖼 Cover",
+    "➗ Dividers",
+    "🔤 Pairs - Text & Icon",
+    "🛎 Buttons",
+    "📑 Form Inputs",
+    "⛵️ Navigation"
   ],
   "sharedSwatches": {
     "_class": "swatchContainer",

@@ -15,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 284,
-    "width": 68,
-    "x": 18,
+    "height": 282,
+    "width": 58,
+    "x": 28,
     "y": 130
   },
   "groupLayout": {
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -49,8 +49,8 @@
       "id": "3AF18AE3-0095-4516-AA7C-D5E0EE7A651F"
     }
   ],
-  "name": "Group 7",
-  "nameIsFixed": false,
+  "name": "Text",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

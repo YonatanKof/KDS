@@ -41,8 +41,8 @@
       "id": "8D579823-9D15-453B-89BE-A8B7A44EBDE0"
     }
   ],
-  "name": "Group 4",
-  "nameIsFixed": false,
+  "name": "Text",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

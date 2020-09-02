@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 306,
-    "width": 57,
+    "width": 55,
     "x": 0,
     "y": 131
   },
@@ -53,7 +53,7 @@
       "id": "6F171DA0-AC24-4048-9ED2-80C384AF041A"
     }
   ],
-  "name": "Group",
+  "name": "text",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

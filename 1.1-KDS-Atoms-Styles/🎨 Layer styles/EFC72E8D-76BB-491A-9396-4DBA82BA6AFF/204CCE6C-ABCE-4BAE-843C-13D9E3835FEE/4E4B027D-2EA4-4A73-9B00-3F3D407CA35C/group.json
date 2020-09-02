@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -49,8 +49,8 @@
       "id": "7D7125AC-C4CF-49BB-9181-1FA23408373F"
     }
   ],
-  "name": "Group 7",
-  "nameIsFixed": false,
+  "name": "Ver",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -100,5 +100,17 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 3,
+        "isCollapsing": 1,
+        "resizesContainer": 1,
+        "spacing": 68,
+        "stackType": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
   }
 }
