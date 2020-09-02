@@ -1,0 +1,692 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "7BF124B7-ECE3-42AB-8C9D-DAC6C7E12813",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "089a1b90-c6a3-4f75-83a8-0dd9941a57ec",
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "032081E0-DF14-4B5D-A76E-445560223BD0",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ExtraLightItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ExtraLightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "035459AF-A96C-4A34-B6DA-14D7FD95E21A",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Thin.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "1978DD7F-7A7B-46BF-8188-35A8F2A2A24E",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Light.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "1A418C53-03C5-4DF9-8CAD-9F3FE8E96217",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Medium.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "1FA1D48B-ECC8-4CC4-B511-3B2027EA8231",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ThinItalic-BETA.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ThinItalicBETA"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "20CE2677-5BB4-4852-BF4F-15B382EE5AEB",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ExtraLight.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ExtraLight"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "251C399C-6064-48E5-BBF0-2F9BFB1B19FF",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Bold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "2AF42D91-D5DA-4F76-8008-548A3E17D14F",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ExtraBold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ExtraBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "2C63FDEC-23C8-4FAE-8685-BD233B4B403D",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Regular.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "357DE5D3-5243-4112-862B-4E0F2C37F7B6",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-BlackItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-BlackItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "393509F0-5E5B-4C9C-9234-A5775CF1097F",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-SemiBoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-SemiBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "3CEF5C94-C8D4-4198-950F-D95C1BA1EB70",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-SemiBold.otf",
+      "options": 2,
+      "postscriptNames": [
+        "Inter-SemiBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "43A80BC4-7C79-4D56-8F83-1F162A782410",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-LightItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "67EBBFB9-0F35-4106-A6A9-93336CD81B02",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ThinItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ThinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "73E7EA50-9BA9-44A2-B329-BA3376C513AD",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ExtraBoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ExtraBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "93D583C0-459F-423B-A8F6-539DEC993F06",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-BoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C48BB9D9-B966-47DD-9413-188DE21033C5",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-MediumItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F8E6BAAB-3CE1-4370-9E6D-26B4232ED129",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Italic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "FF76BB03-603E-476F-B661-9C4176066460",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Black.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Black"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "do_objectID": "7B137C78-4F5C-41A9-90F9-C43B02577D06",
+      "libraryID": "8daca94f-20f4-4694-a1e7-452c57a2e98d",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "57739D29-EFFE-4B51-BC48-9A281134DDA5",
+        "name": "state - weak/system/default",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": false,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 0.12
+          },
+          "do_objectID": "7D857827-F8EA-480F-B212-D688A8F1152C",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.1,
+                "green": 0.1,
+                "red": 0.1
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "6E271EAB-3889-43FF-A493-798B99D3BB1E",
+      "sourceLibraryName": "KDS1-Atoms-Styles (The second go)",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "do_objectID": "255D26EB-4A44-48CA-B3BF-54ADE1501707",
+      "libraryID": "8daca94f-20f4-4694-a1e7-452c57a2e98d",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "63CA0F77-08B7-454A-99C2-DCDF2EF67953",
+        "name": "general / None",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": false,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "E00F4A29-AE6C-4C67-88B2-1F3CA7766BA1",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 0,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "E56BA7EE-4F53-497C-9A9E-40567F5A3A7B",
+      "sourceLibraryName": "KDS1-Atoms-Styles (The second go)",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "do_objectID": "1B4F8DA9-D142-41D3-85F1-FF4E9B11A6B0",
+      "libraryID": "8daca94f-20f4-4694-a1e7-452c57a2e98d",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "8889CF0C-6921-436B-80ED-C378C53E7F46",
+        "name": "general - color/system/full",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": false,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "E9205486-3F68-4F61-B359-D49A9021C05F",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.1,
+                "green": 0.1,
+                "red": 0.1
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "15EA6CCC-B156-470A-A8CB-C2A6B53EE0E8",
+      "sourceLibraryName": "KDS1-Atoms-Styles (The second go)",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "do_objectID": "1D4309F4-1DEF-4565-9EEA-A3A58FA39B0A",
+      "libraryID": "8daca94f-20f4-4694-a1e7-452c57a2e98d",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "AB361ABF-4A3B-43DC-83F0-512A30448865",
+        "name": "state - icon/system/default",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": false,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 0.8399999737739563
+          },
+          "do_objectID": "EE05DC5E-F733-4214-850B-70252845E1B8",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2,
+                "green": 0.2,
+                "red": 0.2
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "D76F41F4-0D0B-49E2-A5B6-41E6C3B42BF3",
+      "sourceLibraryName": "KDS1-Atoms-Styles (The second go)",
+      "symbolPrivate": false
+    }
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "68.2",
+    "build": 102594,
+    "version": 131
+  },
+  "pages": [
+    "🖼 Cover",
+    "☸️ States",
+    "🛅 Icons",
+    "🐄 Brand",
+    "🛰 Spacing"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "objects": [
+    ]
+  }
+}
