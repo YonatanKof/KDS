@@ -1,0 +1,67 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "76CE38BB-D0EB-4D4F-AC68-D71C53379A10",
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "EFC72E8D-76BB-491A-9396-4DBA82BA6AFF"
+    },
+    {
+      "class": "artboard",
+      "id": "D7ABDEF7-CC81-4A85-A3E3-3D8F039E3C39"
+    },
+    {
+      "class": "artboard",
+      "id": "7DCF4508-C0DC-4124-9463-BF19B52BE0E8"
+    },
+    {
+      "class": "artboard",
+      "id": "DB5237B3-D310-4FD0-8880-687F848FCFD1"
+    },
+    {
+      "class": "artboard",
+      "id": "B9AB9A79-CBF2-4EDA-8419-7BD7601461AC"
+    },
+    {
+      "class": "artboard",
+      "id": "30976504-A663-4C09-A13F-901ACACE12D0"
+    }
+  ],
+  "name": "Layer styles",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.1066666666666667,
+    "green": 0.11,
+    "red": 0.09000000000000001
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7DCF4508-C0DC-4124-9463-BF19B52BE0E8",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 768,
+    "width": 1366,
+    "x": -874,
+    "y": 426
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4EA11BA3-8EE5-4B24-A4B2-707A9A66EEE4"
+    },
+    {
+      "class": "group",
+      "id": "48DE9414-A3EF-4EF6-8A9A-B66BA142E3D1"
+    },
+    {
+      "class": "group",
+      "id": "2A630C46-6A01-41A3-835D-1E52A2CB140F"
+    },
+    {
+      "class": "group",
+      "id": "70E65C85-3A60-40F6-966C-81DB70951B50"
+    },
+    {
+      "class": "group",
+      "id": "07A8BA55-CBC7-422B-8EA7-2D25D2D36A79"
+    },
+    {
+      "class": "text",
+      "id": "A77963F0-F202-40B7-AFB4-44F899F8A12B"
+    },
+    {
+      "class": "group",
+      "id": "D13DAF3C-E3AB-4009-BD71-9CC8DD5D9081"
+    },
+    {
+      "class": "group",
+      "id": "68664228-DF2E-4ACD-88D9-F11A60BB9C7E"
+    }
+  ],
+  "name": "States - Invert",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 768,
+    "name": "MD",
+    "offersLandscapeVariant": 0,
+    "width": 1366
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
