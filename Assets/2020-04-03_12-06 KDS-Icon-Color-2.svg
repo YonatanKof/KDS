@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#FFF" points="16 0 144 0 160 16 160 144 144 160 16 160 0 144 0 16"/>
+    <g fill="#CF4517" transform="translate(24 21)">
+      <rect width="8" height="52"/>
+      <rect width="8" height="34" x="101.342" y="17.94" transform="rotate(-20 105.342 34.94)"/>
+      <rect width="8" height="104" x="59.049" y="-31.691" transform="rotate(72 63.049 20.309)"/>
+    </g>
+    <g transform="translate(24 86)">
+      <rect width="8" height="44" y="6" fill="#66B814"/>
+      <g fill="#66B814" transform="translate(12.654 5)">
+        <rect width="8" height="40" x="16" y="-7" transform="rotate(-64 20 13)"/>
+        <rect width="8" height="32" x="13" y="19" transform="rotate(-109 17 35)"/>
+      </g>
+      <rect width="8" height="48" x="86.218" y="-11.698" fill="#0D68F2" transform="rotate(-109 90.218 12.302)"/>
+      <rect width="8" height="48" x="86.218" y="12.302" fill="#0D68F2" transform="rotate(-109 90.218 36.302)"/>
+    </g>
+  </g>
+</svg>
