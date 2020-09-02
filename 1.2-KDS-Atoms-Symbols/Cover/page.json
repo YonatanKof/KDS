@@ -1,0 +1,48 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AE8ACC0A-BC59-4562-BF3E-DBD9F24F0953",
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -315,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "4025615C-B61C-45B9-9501-34E277634DFA"
+    },
+    {
+      "class": "artboard",
+      "id": "C8B73CD5-C086-473A-A0E0-FF4B0066EF0E"
+    }
+  ],
+  "name": "Cover",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -403,
+    "guides": [
+    ]
+  }
+}

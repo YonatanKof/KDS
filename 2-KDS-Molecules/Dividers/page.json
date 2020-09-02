@@ -1,0 +1,48 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1B7F57FE-965B-4286-BA50-8008B3FAE620",
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -315,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "42C8E23C-1D22-4E3D-BE2C-7245DE5B2254"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "11DCA1A4-F773-42B4-AD18-7FD5957B905F"
+    }
+  ],
+  "name": "Dividers",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -416,
+    "guides": [
+    ]
+  }
+}

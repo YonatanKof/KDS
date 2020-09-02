@@ -1,0 +1,59 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BD36FBC8-6506-4A8C-8EE2-24EE9246FD12",
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "628FF8FC-C8D1-40C5-B648-FE0906800B83"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "8D2B28F4-0674-4904-8E1D-4B4B3220EAAE"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "EC8DE5EC-9F67-4286-8C3B-B8F09B94D188"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "6DF916B4-D3A3-418B-90EE-D1CC0112079A"
+    }
+  ],
+  "name": "Brand",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
