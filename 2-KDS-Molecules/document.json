@@ -63,6 +63,11 @@
         "red": 0.04999999999999994
       }
     ],
+    "do_objectID": "FC2A33CF-CCA6-48AA-8821-D271AD869566",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
     "gradients": [
     ],
     "imageCollection": {
@@ -75,8 +80,198 @@
   },
   "colorSpace": 0,
   "do_objectID": "9fe098f9-f7ef-4233-b715-ce056882664e",
-  "enableLayerInteraction": true,
-  "enableSliceInteraction": true,
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "04645A7A-AA6B-4982-AA05-9D8AF56C2EAD",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-BoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "08AF9D3E-5A40-4F02-A042-E9102EB703C5",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Medium.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "1D39F7F0-9BF9-4CD5-9A02-91345E27CC15",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-MediumItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "26A19AB4-DB17-40FA-AB9B-1248F45CC689",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-SemiBoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-SemiBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "3B19CC25-EDBA-4C9B-9E6A-03A6EC472D3A",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Bold.otf",
+      "options": 6,
+      "postscriptNames": [
+        "Inter-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "3C2C36D7-BAD7-474D-AAC7-671D8C12DFA6",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Black.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "3CBD31DB-5ED5-4053-BFF3-B98BC47019AE",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ExtraBold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ExtraBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "3DCE334D-6FBD-4F54-9A68-9E19F6D1DBE9",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-BlackItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-BlackItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "70FA3F8E-0DFE-47D4-A541-09556D47BCA9",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ExtraBoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ExtraBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "825189A1-9083-456E-9DB0-26C8D7062CE6",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ThinItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ThinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "922D2156-04D7-4899-BCF6-EFF75311FF37",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Thin.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "AF6D2FE5-1C3C-4C4F-9719-E95AAE9772B6",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Italic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C72E2631-3862-4B4C-9690-5B785F47A789",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ThinItalic-BETA.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ThinItalicBETA"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C9F888F4-19FA-4788-AC69-C6DCD651D354",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-SemiBold.otf",
+      "options": 6,
+      "postscriptNames": [
+        "Inter-SemiBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D628C948-F5A4-4D0F-8B8A-B85503A222B2",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Regular.otf",
+      "options": 6,
+      "postscriptNames": [
+        "Inter-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "EDA337B2-6206-4983-B8E4-7D6BD4910FED",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ExtraLight.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ExtraLight"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F23354BD-F490-4403-A5D6-FF4ADA094DB4",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Light.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F4171DF7-D586-44FF-84B6-2066FBABED10",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ExtraLightItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ExtraLightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F4279D16-55F7-481F-ABC1-3CE89B0D48E7",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-LightItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-LightItalic"
+      ]
+    }
+  ],
   "foreignLayerStyles": [
     {
       "_class": "MSImmutableForeignLayerStyle",
@@ -3045,6 +3240,8 @@
       "symbolPrivate": true
     }
   ],
+  "foreignSwatches": [
+  ],
   "foreignSymbols": [
     {
       "_class": "MSImmutableForeignSymbol",
@@ -4125,6 +4322,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "4A0D1684-11AE-4280-8F2F-8692BA118DD5",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 0,
             "frame": {
               "_class": "rect",
@@ -4142,6 +4348,7 @@
             "isFlippedVertical": false,
             "isLocked": true,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "frame",
             "nameIsFixed": true,
             "needsConvertionToNewRoundCorners": false,
@@ -4244,6 +4451,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "FE8BE1CC-6186-48F6-B613-EEF7922239D6",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -4262,6 +4478,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 1,
             "layers": [
               {
                 "_class": "shapePath",
@@ -4269,6 +4486,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "8C0540FF-BF6B-4DB9-ACA7-03C4FEB5B503",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -4284,6 +4510,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Path",
                 "nameIsFixed": false,
                 "pointRadiusBehaviour": 1,
@@ -4548,6 +4775,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "486C6F81-9045-4EE4-966F-98A12D6FB9BD",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -4563,6 +4799,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Path",
                 "nameIsFixed": false,
                 "pointRadiusBehaviour": 1,
@@ -5619,6 +5856,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "B771C032-10C6-4910-B6EF-6C082C8FC746",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 4,
             "frame": {
               "_class": "rect",
@@ -5636,6 +5882,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ BG",
             "nameIsFixed": true,
             "needsConvertionToNewRoundCorners": false,
@@ -5798,6 +6045,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "249A3754-7D90-488E-9D5A-E1269075AD23",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 4,
             "frame": {
               "_class": "rect",
@@ -5815,6 +6071,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ Focus",
             "nameIsFixed": true,
             "needsConvertionToNewRoundCorners": false,
@@ -6793,6 +7050,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "47369DE1-915B-4E3A-91AE-20A8DA9BD742",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -6808,6 +7074,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ BG",
             "nameIsFixed": true,
             "overrideValues": [
@@ -6913,6 +7180,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "BDC25A23-2191-4014-88B6-7CDE24489049",
             "dontSynchroniseWithSymbol": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -6928,6 +7204,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "lineSpacingBehaviour": 2,
             "name": "Cover title",
             "nameIsFixed": true,
@@ -7491,6 +7768,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "9ED51CA5-936E-47CA-BCFA-B988323A6F96",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 256,
             "frame": {
               "_class": "rect",
@@ -7508,6 +7794,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ BG",
             "nameIsFixed": true,
             "needsConvertionToNewRoundCorners": false,
@@ -8172,6 +8459,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "961D1978-5180-46B3-BEB8-C92F44E85F03",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 0,
             "frame": {
               "_class": "rect",
@@ -8189,6 +8485,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ BG",
             "nameIsFixed": true,
             "needsConvertionToNewRoundCorners": false,
@@ -8921,6 +9218,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "BFC45E11-3256-475E-A1DB-CFB5755F7B69",
             "edited": true,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -8936,6 +9242,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ BG Icon",
             "nameIsFixed": false,
             "pointRadiusBehaviour": 1,
@@ -10251,6 +10558,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "6E7B57CD-E587-4BCD-A25A-DAA12F4DA2CC",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": true,
@@ -10269,6 +10585,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 1,
             "layers": [
               {
                 "_class": "shapePath",
@@ -10276,6 +10593,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "EEDCA133-BAA9-4700-8FC1-CB73785551EC",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -10291,6 +10617,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Path",
                 "nameIsFixed": false,
                 "pointRadiusBehaviour": 1,
@@ -10471,6 +10798,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "AEBC8B93-62C1-4F28-9F80-F505A37A257F",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -10486,6 +10822,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Path",
                 "nameIsFixed": false,
                 "pointRadiusBehaviour": 1,
@@ -10666,6 +11003,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "317EE93E-3808-4735-858B-CD7D3924F3C0",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -10681,6 +11027,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Path",
                 "nameIsFixed": false,
                 "pointRadiusBehaviour": 1,
@@ -11638,6 +11985,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "2D41FEB5-7799-477B-BE5E-7EE3889C909D",
             "edited": true,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": true,
@@ -11653,6 +12009,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ BG Icon",
             "nameIsFixed": false,
             "pointRadiusBehaviour": 1,
@@ -12736,6 +13093,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "C31B498C-7C1D-4227-B3CB-07650E4E7F6C",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 4,
             "frame": {
               "_class": "rect",
@@ -12753,6 +13119,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ BG",
             "nameIsFixed": true,
             "needsConvertionToNewRoundCorners": false,
@@ -12915,6 +13282,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "60346CE2-A28A-415E-903B-CCF6BF91DC0D",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 4,
             "frame": {
               "_class": "rect",
@@ -12932,6 +13308,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ Focus",
             "nameIsFixed": true,
             "needsConvertionToNewRoundCorners": false,
@@ -13093,6 +13470,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "FB66683F-2CE4-424B-BD68-AFCF5DDBA45C",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -13108,6 +13494,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "Special",
             "nameIsFixed": false,
             "overrideValues": [
@@ -13868,6 +14255,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "43E2A4AA-EF77-40C5-93D8-7596789BFACB",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 2,
             "frame": {
               "_class": "rect",
@@ -13885,6 +14281,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ BG",
             "nameIsFixed": true,
             "needsConvertionToNewRoundCorners": false,
@@ -14047,6 +14444,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "76D41D5C-56BE-43A7-9D2F-F34219AA03DD",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 2,
             "frame": {
               "_class": "rect",
@@ -14064,6 +14470,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ Focus",
             "nameIsFixed": true,
             "needsConvertionToNewRoundCorners": false,
@@ -16491,8 +16898,9 @@
     ]
   },
   "meta": {
-    "appVersion": "66.1",
-    "version": 130
+    "appVersion": "68.2",
+    "build": 102594,
+    "version": 131
   },
   "pages": [
     "Cover",
@@ -16501,5 +16909,10 @@
     "Buttons",
     "Form Inputs",
     "Navigation"
-  ]
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "objects": [
+    ]
+  }
 }

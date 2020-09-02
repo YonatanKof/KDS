@@ -3,6 +3,15 @@
   "booleanOperation": -1,
   "clippingMaskMode": 0,
   "do_objectID": "47369DE1-915B-4E3A-91AE-20A8DA9BD742",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -18,6 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
+  "layerListExpandedType": 0,
   "name": "➠ BG",
   "nameIsFixed": true,
   "overrideValues": [

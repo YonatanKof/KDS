@@ -4,6 +4,15 @@
   "clippingMaskMode": 0,
   "do_objectID": "081CB9DC-ED5C-455E-AEF0-78C6109F6BA7",
   "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "fixedRadius": 0,
   "frame": {
     "_class": "rect",
@@ -21,6 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
+  "layerListExpandedType": 0,
   "name": "Mask",
   "nameIsFixed": false,
   "needsConvertionToNewRoundCorners": false,

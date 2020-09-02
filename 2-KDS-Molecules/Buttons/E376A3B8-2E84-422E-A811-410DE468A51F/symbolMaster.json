@@ -12,6 +12,15 @@
   "changeIdentifier": 1794,
   "clippingMaskMode": 0,
   "do_objectID": "E376A3B8-2E84-422E-A811-410DE468A51F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -45,6 +54,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",

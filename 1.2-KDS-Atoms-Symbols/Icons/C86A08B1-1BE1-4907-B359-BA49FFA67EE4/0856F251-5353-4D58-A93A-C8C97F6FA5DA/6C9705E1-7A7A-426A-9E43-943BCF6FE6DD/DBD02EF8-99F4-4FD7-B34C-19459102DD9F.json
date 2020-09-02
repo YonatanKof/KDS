@@ -4,6 +4,15 @@
   "clippingMaskMode": 0,
   "do_objectID": "DBD02EF8-99F4-4FD7-B34C-19459102DD9F",
   "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -19,6 +28,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
+  "layerListExpandedType": 0,
   "name": "Path",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,

@@ -3,6 +3,15 @@
   "booleanOperation": 0,
   "clippingMaskMode": 0,
   "do_objectID": "B9016C7D-1E17-444D-B52F-C6B3D0E89125",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -21,6 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapePath",

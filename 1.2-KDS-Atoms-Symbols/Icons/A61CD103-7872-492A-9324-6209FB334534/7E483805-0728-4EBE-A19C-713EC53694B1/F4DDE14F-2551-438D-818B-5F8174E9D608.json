@@ -4,6 +4,15 @@
   "clippingMaskMode": 0,
   "do_objectID": "F4DDE14F-2551-438D-818B-5F8174E9D608",
   "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -19,6 +28,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
+  "layerListExpandedType": 0,
   "name": "Mask Copy",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,

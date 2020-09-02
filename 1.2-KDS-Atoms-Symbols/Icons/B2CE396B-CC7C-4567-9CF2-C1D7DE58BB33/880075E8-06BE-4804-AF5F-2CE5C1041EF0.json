@@ -4,6 +4,15 @@
   "clippingMaskMode": 0,
   "do_objectID": "880075E8-06BE-4804-AF5F-2CE5C1041EF0",
   "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
@@ -19,6 +28,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
+  "layerListExpandedType": 0,
   "name": "➠ BG Icon",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,

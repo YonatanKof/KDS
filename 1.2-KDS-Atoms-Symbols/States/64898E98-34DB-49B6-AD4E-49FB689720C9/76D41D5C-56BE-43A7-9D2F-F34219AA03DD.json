@@ -4,6 +4,15 @@
   "clippingMaskMode": 0,
   "do_objectID": "76D41D5C-56BE-43A7-9D2F-F34219AA03DD",
   "edited": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "fixedRadius": 2,
   "frame": {
     "_class": "rect",
@@ -21,6 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
+  "layerListExpandedType": 0,
   "name": "➠ Focus",
   "nameIsFixed": true,
   "needsConvertionToNewRoundCorners": false,

@@ -4,6 +4,15 @@
   "clippingMaskMode": 0,
   "do_objectID": "6101ADF0-86EE-4FFB-BF26-46DD2F90334E",
   "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -19,6 +28,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
+  "layerListExpandedType": 0,
   "name": "Fill 2",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,

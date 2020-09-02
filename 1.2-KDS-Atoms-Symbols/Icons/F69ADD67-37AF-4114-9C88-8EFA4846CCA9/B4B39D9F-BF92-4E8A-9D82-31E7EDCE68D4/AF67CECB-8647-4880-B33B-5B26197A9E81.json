@@ -4,6 +4,15 @@
   "clippingMaskMode": 0,
   "do_objectID": "AF67CECB-8647-4880-B33B-5B26197A9E81",
   "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -19,6 +28,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
+  "layerListExpandedType": 0,
   "name": "Triangle Copy",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,

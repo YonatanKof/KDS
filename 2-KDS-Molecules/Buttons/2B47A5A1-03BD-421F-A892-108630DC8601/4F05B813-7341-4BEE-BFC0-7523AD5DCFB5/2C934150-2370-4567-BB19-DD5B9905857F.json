@@ -40,6 +40,15 @@
   "clippingMaskMode": 0,
   "do_objectID": "2C934150-2370-4567-BB19-DD5B9905857F",
   "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -55,6 +64,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
+  "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "name": "Text",
   "nameIsFixed": true,

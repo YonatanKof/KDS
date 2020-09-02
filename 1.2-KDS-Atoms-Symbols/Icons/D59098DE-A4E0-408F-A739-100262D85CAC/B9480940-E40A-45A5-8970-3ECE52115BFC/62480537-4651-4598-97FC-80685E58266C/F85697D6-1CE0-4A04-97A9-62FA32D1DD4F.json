@@ -4,6 +4,15 @@
   "clippingMaskMode": 0,
   "do_objectID": "F85697D6-1CE0-4A04-97A9-62FA32D1DD4F",
   "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -19,6 +28,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
+  "layerListExpandedType": 0,
   "name": "Rectangle Copy 4",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,

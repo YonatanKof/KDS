@@ -4,6 +4,15 @@
   "clippingMaskMode": 0,
   "do_objectID": "DFF90974-30BD-4584-9BF3-F499CED8901B",
   "edited": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -20,6 +29,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
+  "layerListExpandedType": 0,
   "name": "Triangle",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,

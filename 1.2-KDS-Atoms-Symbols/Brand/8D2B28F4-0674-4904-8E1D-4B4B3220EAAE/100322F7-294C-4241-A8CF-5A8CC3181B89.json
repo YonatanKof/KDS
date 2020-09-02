@@ -4,6 +4,15 @@
   "clippingMaskMode": 0,
   "do_objectID": "100322F7-294C-4241-A8CF-5A8CC3181B89",
   "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -19,6 +28,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
+  "layerListExpandedType": 0,
   "name": "hr",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,

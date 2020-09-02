@@ -12,6 +12,15 @@
   "changeIdentifier": 334,
   "clippingMaskMode": 0,
   "do_objectID": "0B4DA771-6B35-4D6A-AC4A-638CB1B30A34",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -41,6 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
+  "layerListExpandedType": 0,
   "layers": [
   ],
   "name": "spacing / 65-5xl",

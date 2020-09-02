@@ -3,6 +3,15 @@
   "booleanOperation": 1,
   "clippingMaskMode": 0,
   "do_objectID": "07E0FD5A-FBB2-490C-BB2D-14A67F63E412",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -21,6 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",

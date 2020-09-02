@@ -4,6 +4,15 @@
   "clippingMaskMode": 0,
   "do_objectID": "9D16E37A-2907-4FEA-8D3A-5C1F7E3D9FEF",
   "edited": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "fixedRadius": 0,
   "frame": {
     "_class": "rect",
@@ -21,6 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
+  "layerListExpandedType": 0,
   "name": "➠ BG",
   "nameIsFixed": true,
   "needsConvertionToNewRoundCorners": false,

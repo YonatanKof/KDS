@@ -2,7 +2,14 @@
   "_class": "document",
   "assets": {
     "_class": "assetCollection",
+    "colorAssets": [
+    ],
     "colors": [
+    ],
+    "do_objectID": "D6155040-C24F-4F62-96E5-06EBF9CF939A",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
     ],
     "gradients": [
     ],
@@ -16,120 +23,199 @@
   },
   "colorSpace": 0,
   "do_objectID": "f8fd55a7-c044-4e28-ab69-e2161204cb03",
-  "enableLayerInteraction": true,
-  "enableSliceInteraction": true,
-  "foreignLayerStyles": [
+  "fontReferences": [
     {
-      "_class": "MSImmutableForeignLayerStyle",
-      "do_objectID": "3A10B88D-CF9A-4990-B8E7-C7B55B359C3A",
-      "libraryID": "8daca94f-20f4-4694-a1e7-452c57a2e98d",
-      "localSharedStyle": {
-        "_class": "sharedStyle",
-        "do_objectID": "AD09A0D8-5C77-496F-8297-9E892D933FF4[E56BA7EE-4F53-497C-9A9E-40567F5A3A7B]",
-        "name": "general / None",
-        "value": {
-          "_class": "style",
-          "blur": {
-            "_class": "blur",
-            "center": "{0.5, 0.5}",
-            "isEnabled": false,
-            "motionAngle": 0,
-            "radius": 10,
-            "saturation": 1,
-            "type": 0
-          },
-          "borderOptions": {
-            "_class": "borderOptions",
-            "dashPattern": [
-            ],
-            "isEnabled": true,
-            "lineCapStyle": 0,
-            "lineJoinStyle": 0
-          },
-          "borders": [
-          ],
-          "colorControls": {
-            "_class": "colorControls",
-            "brightness": 0,
-            "contrast": 1,
-            "hue": 0,
-            "isEnabled": false,
-            "saturation": 1
-          },
-          "contextSettings": {
-            "_class": "graphicsContextSettings",
-            "blendMode": 0,
-            "opacity": 1
-          },
-          "do_objectID": "E00F4A29-AE6C-4C67-88B2-1F3CA7766BA1",
-          "endMarkerType": 0,
-          "fills": [
-            {
-              "_class": "fill",
-              "color": {
-                "_class": "color",
-                "alpha": 0,
-                "blue": 1,
-                "green": 1,
-                "red": 1
-              },
-              "contextSettings": {
-                "_class": "graphicsContextSettings",
-                "blendMode": 0,
-                "opacity": 1
-              },
-              "fillType": 0,
-              "gradient": {
-                "_class": "gradient",
-                "elipseLength": 0,
-                "from": "{0.5, 0}",
-                "gradientType": 0,
-                "stops": [
-                  {
-                    "_class": "gradientStop",
-                    "color": {
-                      "_class": "color",
-                      "alpha": 1,
-                      "blue": 1,
-                      "green": 1,
-                      "red": 1
-                    },
-                    "position": 0
-                  },
-                  {
-                    "_class": "gradientStop",
-                    "color": {
-                      "_class": "color",
-                      "alpha": 1,
-                      "blue": 0,
-                      "green": 0,
-                      "red": 0
-                    },
-                    "position": 1
-                  }
-                ],
-                "to": "{0.5, 1}"
-              },
-              "isEnabled": true,
-              "noiseIndex": 0,
-              "noiseIntensity": 0,
-              "patternFillType": 1,
-              "patternTileScale": 1
-            }
-          ],
-          "innerShadows": [
-          ],
-          "miterLimit": 10,
-          "shadows": [
-          ],
-          "startMarkerType": 0,
-          "windingRule": 1
-        }
-      },
-      "remoteStyleID": "AD09A0D8-5C77-496F-8297-9E892D933FF4[E56BA7EE-4F53-497C-9A9E-40567F5A3A7B]",
-      "sourceLibraryName": "KDS1-Atoms-Styles (The second go)",
-      "symbolPrivate": true
+      "_class": "fontReference",
+      "do_objectID": "18AE3469-374A-46C2-9C6F-0962597CF5C6",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Light.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Light"
+      ]
     },
+    {
+      "_class": "fontReference",
+      "do_objectID": "1EBBEB94-FE1A-4BD9-8F67-7BAAC9A2EB5D",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ThinItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ThinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "2203E677-E69A-420F-8DA2-319B2921E9BF",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ExtraBoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ExtraBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "2372333F-37C4-46EA-B093-BBE22EA1BA34",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Italic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "38B64607-ACED-4FCC-A772-F1A9BAD55FF1",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ExtraLight.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ExtraLight"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "3F23C762-C55F-4A60-8112-C77DE726BAAF",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-BoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5CFAA099-B3AE-4807-A83B-E4DE8E724156",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-LightItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "610B992A-449A-4533-A933-A9DFC6293A5F",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ExtraLightItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ExtraLightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "74B646BC-3D6E-4368-A99D-FAB57505AEF2",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Thin.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "7FFF3B97-57C9-42B4-87DC-9CC2A93DFE91",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-SemiBoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-SemiBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "83534AA7-1DC7-4F1C-BFA5-ABEDF66060E8",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-BlackItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-BlackItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "903CB787-1D77-47B0-B260-515DB0235666",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Regular.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "91474083-C7E1-4F04-8FF0-EF56CB7D9598",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Medium.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "938B3DF9-5591-44BB-A237-7720A7109C90",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ExtraBold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ExtraBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "9F1A62ED-4F2D-4488-BC43-FA3BB3B866EC",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Black.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "CD957C83-9894-47AA-A3C0-47D3A6849A48",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-SemiBold.otf",
+      "options": 6,
+      "postscriptNames": [
+        "Inter-SemiBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D66F539A-8F09-4A11-90F0-856B548C44D3",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-MediumItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E318809E-58FB-444A-9983-7E66F4273142",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ThinItalic-BETA.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ThinItalicBETA"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "FCDCCAAC-E99F-4389-A18C-7270ED6CE59F",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Bold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Bold"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [
     {
       "_class": "MSImmutableForeignLayerStyle",
       "do_objectID": "3C0888FE-28AA-42FA-A0CE-93896726AE54",
@@ -240,7 +326,120 @@
       "remoteStyleID": "EB41DEDF-AD9D-40D7-B99A-DF39BEDE4005[15EA6CCC-B156-470A-A8CB-C2A6B53EE0E8]",
       "sourceLibraryName": "KDS1-Atoms-Styles (The second go)",
       "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "do_objectID": "33C91126-E760-491D-A4D3-CD9DA9B7E804",
+      "libraryID": "8daca94f-20f4-4694-a1e7-452c57a2e98d",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "AD09A0D8-5C77-496F-8297-9E892D933FF4[E56BA7EE-4F53-497C-9A9E-40567F5A3A7B]",
+        "name": "general / None",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": false,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "E00F4A29-AE6C-4C67-88B2-1F3CA7766BA1",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 0,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "AD09A0D8-5C77-496F-8297-9E892D933FF4[E56BA7EE-4F53-497C-9A9E-40567F5A3A7B]",
+      "sourceLibraryName": "KDS1-Atoms-Styles (The second go)",
+      "symbolPrivate": true
     }
+  ],
+  "foreignSwatches": [
   ],
   "foreignSymbols": [
     {
@@ -258,7 +457,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 1193,
+        "changeIdentifier": 1194,
         "clippingMaskMode": 0,
         "do_objectID": "AE514EB6-FD9F-43F6-A71F-F75351627BA0",
         "exportOptions": {
@@ -701,12 +900,12 @@
           {
             "_class": "MSImmutableOverrideProperty",
             "canOverride": true,
-            "overrideName": "B771C032-10C6-4910-B6EF-6C082C8FC746_layerStyle"
+            "overrideName": "249A3754-7D90-488E-9D5A-E1269075AD23_layerStyle"
           },
           {
             "_class": "MSImmutableOverrideProperty",
             "canOverride": true,
-            "overrideName": "CA06DBB5-D057-40CF-9CA7-26356575204F_layerStyle"
+            "overrideName": "B771C032-10C6-4910-B6EF-6C082C8FC746_layerStyle"
           }
         ],
         "presetDictionary": {
@@ -790,7 +989,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 1195,
+        "changeIdentifier": 1196,
         "clippingMaskMode": 0,
         "do_objectID": "AE514EB6-FD9F-43F6-A71F-F75351627BA0",
         "exportOptions": {
@@ -839,6 +1038,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "B771C032-10C6-4910-B6EF-6C082C8FC746",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 4,
             "frame": {
               "_class": "rect",
@@ -856,6 +1064,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ BG",
             "nameIsFixed": true,
             "needsConvertionToNewRoundCorners": false,
@@ -1018,6 +1227,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "249A3754-7D90-488E-9D5A-E1269075AD23",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 4,
             "frame": {
               "_class": "rect",
@@ -1035,6 +1253,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ Focus",
             "nameIsFixed": true,
             "needsConvertionToNewRoundCorners": false,
@@ -1213,12 +1432,12 @@
           {
             "_class": "MSImmutableOverrideProperty",
             "canOverride": true,
-            "overrideName": "B771C032-10C6-4910-B6EF-6C082C8FC746_layerStyle"
+            "overrideName": "249A3754-7D90-488E-9D5A-E1269075AD23_layerStyle"
           },
           {
             "_class": "MSImmutableOverrideProperty",
             "canOverride": true,
-            "overrideName": "CA06DBB5-D057-40CF-9CA7-26356575204F_layerStyle"
+            "overrideName": "B771C032-10C6-4910-B6EF-6C082C8FC746_layerStyle"
           }
         ],
         "presetDictionary": {
@@ -1724,6 +1943,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "47369DE1-915B-4E3A-91AE-20A8DA9BD742",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -1739,6 +1967,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ BG",
             "nameIsFixed": true,
             "overrideValues": [
@@ -1844,6 +2073,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "BDC25A23-2191-4014-88B6-7CDE24489049",
             "dontSynchroniseWithSymbol": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -1859,6 +2097,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "lineSpacingBehaviour": 2,
             "name": "Cover title",
             "nameIsFixed": true,
@@ -2024,10 +2263,16 @@
     ]
   },
   "meta": {
-    "appVersion": "66.1",
-    "version": 130
+    "appVersion": "68.2",
+    "build": 102594,
+    "version": 131
   },
   "pages": [
     "Cover"
-  ]
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "objects": [
+    ]
+  }
 }

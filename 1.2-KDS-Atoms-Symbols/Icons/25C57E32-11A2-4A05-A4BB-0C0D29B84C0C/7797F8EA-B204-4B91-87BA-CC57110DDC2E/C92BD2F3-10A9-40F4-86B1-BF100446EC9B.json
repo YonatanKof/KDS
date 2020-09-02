@@ -4,6 +4,15 @@
   "clippingMaskMode": 0,
   "do_objectID": "C92BD2F3-10A9-40F4-86B1-BF100446EC9B",
   "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -19,6 +28,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
+  "layerListExpandedType": 0,
   "name": "Path 6 Copy 2",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,

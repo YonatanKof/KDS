@@ -12,6 +12,15 @@
   "changeIdentifier": 129,
   "clippingMaskMode": 0,
   "do_objectID": "080C8B6E-B0EC-49E3-ACBE-4CEFB4C03978",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -41,6 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
+  "layerListExpandedType": 0,
   "layers": [
   ],
   "name": "spacing / 20-sm",

@@ -4,6 +4,15 @@
   "clippingMaskMode": 0,
   "do_objectID": "4566D663-0101-40BE-A932-F8FB693C3F61",
   "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
@@ -19,6 +28,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
+  "layerListExpandedType": 0,
   "name": "K",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,

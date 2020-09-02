@@ -4,6 +4,15 @@
   "clippingMaskMode": 0,
   "do_objectID": "7283618A-5FF4-4B23-9BEE-FAF51E5A1038",
   "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -19,6 +28,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
+  "layerListExpandedType": 0,
   "name": "Oval Copy 2",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,

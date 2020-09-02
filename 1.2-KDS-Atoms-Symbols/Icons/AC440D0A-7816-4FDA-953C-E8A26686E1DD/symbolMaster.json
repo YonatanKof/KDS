@@ -12,6 +12,15 @@
   "changeIdentifier": 4399,
   "clippingMaskMode": 0,
   "do_objectID": "AC440D0A-7816-4FDA-953C-E8A26686E1DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -47,6 +56,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",

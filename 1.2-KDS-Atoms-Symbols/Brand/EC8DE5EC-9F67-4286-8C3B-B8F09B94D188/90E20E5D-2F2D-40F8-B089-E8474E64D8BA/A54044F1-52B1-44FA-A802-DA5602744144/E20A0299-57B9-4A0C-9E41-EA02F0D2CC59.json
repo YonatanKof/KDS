@@ -4,6 +4,15 @@
   "clippingMaskMode": 0,
   "do_objectID": "E20A0299-57B9-4A0C-9E41-EA02F0D2CC59",
   "edited": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "fixedRadius": 0,
   "frame": {
     "_class": "rect",
@@ -21,6 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
+  "layerListExpandedType": 0,
   "name": "Rectangle Copy 6",
   "nameIsFixed": false,
   "needsConvertionToNewRoundCorners": false,

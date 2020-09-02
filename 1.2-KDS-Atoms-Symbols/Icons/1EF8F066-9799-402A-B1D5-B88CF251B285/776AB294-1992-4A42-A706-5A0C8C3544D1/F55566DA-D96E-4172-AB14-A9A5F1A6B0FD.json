@@ -4,6 +4,15 @@
   "clippingMaskMode": 0,
   "do_objectID": "F55566DA-D96E-4172-AB14-A9A5F1A6B0FD",
   "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -19,6 +28,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
+  "layerListExpandedType": 0,
   "name": "Fill 3 Copy",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
