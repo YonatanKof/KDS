@@ -1,0 +1,66 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.1,
+    "green": 0.1,
+    "red": 0.1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AEC4B58C-0827-4A5E-9B5D-480ED1BED2F7",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 6396,
+    "width": 14600,
+    "x": 31641,
+    "y": -6246
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B4195F4D-1517-4C1D-BA11-623E79EF6E6B"
+    },
+    {
+      "class": "group",
+      "id": "33F3633F-35DA-4405-83D4-FB349D225424"
+    }
+  ],
+  "name": "--Family:Brand - Style:System - Invert",
+  "nameIsFixed": false,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
