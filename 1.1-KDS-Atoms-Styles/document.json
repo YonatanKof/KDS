@@ -367,117 +367,6 @@
   "foreignLayerStyles": [
     {
       "_class": "MSImmutableForeignLayerStyle",
-      "do_objectID": "D2C8392C-5DEA-43E3-8734-682A26FF0F31",
-      "libraryID": "8daca94f-20f4-4694-a1e7-452c57a2e98d",
-      "localSharedStyle": {
-        "_class": "sharedStyle",
-        "do_objectID": "CC1598AA-BEE0-472D-8E90-DD0108196437[15EA6CCC-B156-470A-A8CB-C2A6B53EE0E8]",
-        "name": "general - color/system/full",
-        "value": {
-          "_class": "style",
-          "blur": {
-            "_class": "blur",
-            "center": "{0.5, 0.5}",
-            "isEnabled": false,
-            "motionAngle": 0,
-            "radius": 10,
-            "saturation": 1,
-            "type": 0
-          },
-          "borderOptions": {
-            "_class": "borderOptions",
-            "dashPattern": [
-            ],
-            "isEnabled": true,
-            "lineCapStyle": 0,
-            "lineJoinStyle": 0
-          },
-          "borders": [
-          ],
-          "colorControls": {
-            "_class": "colorControls",
-            "brightness": 0,
-            "contrast": 1,
-            "hue": 0,
-            "isEnabled": false,
-            "saturation": 1
-          },
-          "contextSettings": {
-            "_class": "graphicsContextSettings",
-            "blendMode": 0,
-            "opacity": 1
-          },
-          "do_objectID": "E9205486-3F68-4F61-B359-D49A9021C05F",
-          "endMarkerType": 0,
-          "fills": [
-            {
-              "_class": "fill",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.1,
-                "green": 0.1,
-                "red": 0.1
-              },
-              "contextSettings": {
-                "_class": "graphicsContextSettings",
-                "blendMode": 0,
-                "opacity": 1
-              },
-              "fillType": 0,
-              "gradient": {
-                "_class": "gradient",
-                "elipseLength": 0,
-                "from": "{0.5, 0}",
-                "gradientType": 0,
-                "stops": [
-                  {
-                    "_class": "gradientStop",
-                    "color": {
-                      "_class": "color",
-                      "alpha": 1,
-                      "blue": 1,
-                      "green": 1,
-                      "red": 1
-                    },
-                    "position": 0
-                  },
-                  {
-                    "_class": "gradientStop",
-                    "color": {
-                      "_class": "color",
-                      "alpha": 1,
-                      "blue": 0,
-                      "green": 0,
-                      "red": 0
-                    },
-                    "position": 1
-                  }
-                ],
-                "to": "{0.5, 1}"
-              },
-              "isEnabled": true,
-              "noiseIndex": 0,
-              "noiseIntensity": 0,
-              "patternFillType": 1,
-              "patternTileScale": 1
-            }
-          ],
-          "innerShadows": [
-          ],
-          "miterLimit": 10,
-          "shadows": [
-          ],
-          "startMarkerType": 0,
-          "windingRule": 1
-        }
-      },
-      "remoteStyleID": "CC1598AA-BEE0-472D-8E90-DD0108196437[15EA6CCC-B156-470A-A8CB-C2A6B53EE0E8]",
-      "sourceLibraryName": "KDS1-Atoms-Styles (The second go)",
-      "symbolPrivate": true
-    },
-    {
-      "_class": "MSImmutableForeignLayerStyle",
       "do_objectID": "FFCF208F-D0C1-466E-ACFF-EF6361C67412",
       "libraryID": "8daca94f-20f4-4694-a1e7-452c57a2e98d",
       "localSharedStyle": {
@@ -584,6 +473,117 @@
         }
       },
       "remoteStyleID": "94393EAB-F21F-4E88-9263-14BCB9CA93CE[E56BA7EE-4F53-497C-9A9E-40567F5A3A7B]",
+      "sourceLibraryName": "KDS1-Atoms-Styles (The second go)",
+      "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "do_objectID": "B2AE7ADD-05DA-4FE7-9FB5-EEF277E859EB",
+      "libraryID": "8daca94f-20f4-4694-a1e7-452c57a2e98d",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "CC1598AA-BEE0-472D-8E90-DD0108196437[15EA6CCC-B156-470A-A8CB-C2A6B53EE0E8]",
+        "name": "general - color/system/full",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": false,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "E9205486-3F68-4F61-B359-D49A9021C05F",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.1,
+                "green": 0.1,
+                "red": 0.1
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "CC1598AA-BEE0-472D-8E90-DD0108196437[15EA6CCC-B156-470A-A8CB-C2A6B53EE0E8]",
       "sourceLibraryName": "KDS1-Atoms-Styles (The second go)",
       "symbolPrivate": true
     }
@@ -1675,7 +1675,7 @@
           "red": 0.1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 260,
+        "changeIdentifier": 261,
         "clippingMaskMode": 0,
         "do_objectID": "4025615C-B61C-45B9-9501-34E277634DFA",
         "exportOptions": {
@@ -1716,7 +1716,7 @@
         "isFlowHome": false,
         "isLocked": false,
         "isVisible": true,
-        "layerListExpandedType": 2,
+        "layerListExpandedType": 1,
         "layers": [
           {
             "_class": "symbolInstance",
@@ -1969,6 +1969,11 @@
             "_class": "MSImmutableOverrideProperty",
             "canOverride": true,
             "overrideName": "BDC25A23-2191-4014-88B6-7CDE24489049_stringValue"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "47369DE1-915B-4E3A-91AE-20A8DA9BD742_symbolID"
           }
         ],
         "presetDictionary": {
@@ -2044,7 +2049,7 @@
           "red": 0.1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 262,
+        "changeIdentifier": 263,
         "clippingMaskMode": 0,
         "do_objectID": "4025615C-B61C-45B9-9501-34E277634DFA",
         "exportOptions": {
@@ -2085,7 +2090,7 @@
         "isFlowHome": false,
         "isLocked": false,
         "isVisible": true,
-        "layerListExpandedType": 2,
+        "layerListExpandedType": 1,
         "layers": [
           {
             "_class": "symbolInstance",
@@ -2338,6 +2343,11 @@
             "_class": "MSImmutableOverrideProperty",
             "canOverride": true,
             "overrideName": "BDC25A23-2191-4014-88B6-7CDE24489049_stringValue"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "47369DE1-915B-4E3A-91AE-20A8DA9BD742_symbolID"
           }
         ],
         "presetDictionary": {
