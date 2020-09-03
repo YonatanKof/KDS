@@ -1,0 +1,397 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1066666666666667,
+          "green": 0.11,
+          "red": 0.09000000000000001
+        },
+        "do_objectID": "745110CA-6ECB-47B6-9845-A9C0DBB0669E",
+        "name": ""
+      }
+    ],
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1066666666666667,
+        "green": 0.11,
+        "red": 0.09000000000000001
+      }
+    ],
+    "do_objectID": "E00979B4-B00E-49EC-82D5-16F9AE23563F",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "8daca94f-20f4-4694-a1e7-452c57a2e98d",
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "0FFAE4A1-6663-458A-8945-4BFBD686AA73",
+      "fontFamilyName": "Fira Code",
+      "fontFileName": "FiraCode-Light.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "FiraCode-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "19CA6FF7-1059-422A-BFBB-DE13AA7529DA",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-SemiBoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-SemiBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "1A2AD30E-F192-4FDF-9B53-E32AE8352C49",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Thin.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "268A8724-DAF2-432F-A9C1-A1E4FF1ECB81",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-MediumItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "2755EB99-1696-455E-B5B1-FA020E6E1D5E",
+      "fontFamilyName": "Merriweather",
+      "fontFileName": "Merriweather-Italic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Merriweather-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "32D26AB6-7B2A-4BA9-BB38-BBF4E05E8188",
+      "fontFamilyName": "Fira Code",
+      "fontFileName": "FiraCode-Regular.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "FiraCode-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "378F5581-37FF-4D8A-B90C-E20320B4A9CB",
+      "fontFamilyName": "Merriweather",
+      "fontFileName": "Merriweather-Regular.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Merriweather-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5427DDAF-98BB-448F-96D6-0B2AE55B5248",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ExtraBold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ExtraBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "565D2DB8-9FAC-46D2-B0B5-A489D347B30B",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-LightItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "585ABEAE-3632-4596-81AC-877220C76B82",
+      "fontFamilyName": "Merriweather",
+      "fontFileName": "Merriweather-Black.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Merriweather-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5ABA1093-F16E-4FD8-900B-4F4A15DA3765",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Medium.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5ADFD3B7-4492-45E9-B659-2CA2ECE7E3CD",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ThinItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ThinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5EBD8ED3-53CB-4E0A-89F7-5D217F08A056",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Italic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "67CAF0BD-F36F-4DD3-AB28-A318A8FAB6BB",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ExtraLight.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ExtraLight"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "6C29D951-340D-4D9C-B7BF-0CA6BBA3969F",
+      "fontFamilyName": "Merriweather",
+      "fontFileName": "Merriweather-LightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Merriweather-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "7160A7F3-37A4-4FEC-B544-05D44EF03677",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Black.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "7A58970C-B74C-4B03-87D0-2EBE902053AA",
+      "fontFamilyName": "Fira Code",
+      "fontFileName": "FiraCode-Bold.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "FiraCode-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "803BA7C6-AD27-4C34-9E26-A443741A8583",
+      "fontFamilyName": "Merriweather",
+      "fontFileName": "Merriweather-BoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Merriweather-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8FF05725-1CCD-4589-8CEE-DCD0BEA4752C",
+      "fontFamilyName": "Merriweather",
+      "fontFileName": "Merriweather-Bold.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Merriweather-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "91352AFC-D65D-4885-8B63-55BF5FEFA360",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ExtraBoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ExtraBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "9187A88A-E016-4F2F-BFA0-8EF511F0580F",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Light.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "9CBB2164-1401-4655-98E9-500A27542EE4",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Regular.otf",
+      "options": 2,
+      "postscriptNames": [
+        "Inter-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "9F2F5E9F-658F-4D48-9DAB-8FC1A8080941",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ExtraLightItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ExtraLightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "B9BFE426-E80C-4378-AF0C-797B9521335B",
+      "fontFamilyName": "Fira Code",
+      "fontFileName": "FiraCode-Medium.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "FiraCode-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "BE798104-EA0D-4E20-B372-6414FB014653",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Bold.otf",
+      "options": 2,
+      "postscriptNames": [
+        "Inter-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D4E8D1E6-DA8A-484F-A8AF-7B1FB63BDF24",
+      "fontFamilyName": "Fira Code",
+      "fontFileName": "FiraCode-Retina.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "FiraCode-Retina"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "DB73E6BA-9443-4453-A1FF-A79EF259D463",
+      "fontFamilyName": "Merriweather",
+      "fontFileName": "Merriweather-BlackItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Merriweather-BlackItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "DEE60B0E-E91A-4786-94D5-3EFB94E4E824",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ThinItalic-BETA.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ThinItalicBETA"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E5E8012C-37F8-4F37-B6C1-70FE7BBF9E70",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-SemiBold.otf",
+      "options": 2,
+      "postscriptNames": [
+        "Inter-SemiBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "ED49BEDA-B86E-4431-9C39-DF5F2B38FD28",
+      "fontFamilyName": "Merriweather",
+      "fontFileName": "Merriweather-Light.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Merriweather-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F314D426-28A5-40C8-940F-FED6A31C9135",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-BoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F92A0D47-86E0-497C-83FB-B9453E8BEE80",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-BlackItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-BlackItalic"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "68.2",
+    "build": 102594,
+    "version": 131
+  },
+  "pages": [
+    "🖼 Cover",
+    "🅰️ Text styles",
+    "🅱️ Text styles - Examples",
+    "🎨 Layer styles",
+    "⚙️ Util"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "objects": [
+    ]
+  }
+}
