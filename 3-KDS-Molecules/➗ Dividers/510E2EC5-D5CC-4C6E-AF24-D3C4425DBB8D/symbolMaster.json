@@ -9,9 +9,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1707,
+  "changeIdentifier": 1788,
   "clippingMaskMode": 0,
-  "do_objectID": "11DCA1A4-F773-42B4-AD18-7FD5957B905F",
+  "do_objectID": "510E2EC5-D5CC-4C6E-AF24-D3C4425DBB8D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,9 +24,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1,
-    "width": 128,
-    "x": 0,
+    "height": 6,
+    "width": 6,
+    "x": 237,
     "y": 0
   },
   "groupLayout": {
@@ -53,8 +53,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "9D16E37A-2907-4FEA-8D3A-5C1F7E3D9FEF"
+      "class": "symbolInstance",
+      "id": "33F500DB-CE70-44DF-B1B1-13C28400566D"
     }
   ],
   "layout": {
@@ -72,13 +72,18 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1152
   },
-  "name": "divider / line - hor",
+  "name": "divider / dot",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "9D16E37A-2907-4FEA-8D3A-5C1F7E3D9FEF_layerStyle"
+      "overrideName": "33F500DB-CE70-44DF-B1B1-13C28400566D/9ED51CA5-936E-47CA-BCFA-B988323A6F96_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "33F500DB-CE70-44DF-B1B1-13C28400566D_symbolID"
     }
   ],
   "presetDictionary": {
@@ -122,7 +127,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "FC3C63AB-9593-4BBD-9C8E-747B1C18DFBD",
+    "do_objectID": "79B9A457-2F0B-401A-84D8-8746F76A7B5F",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -134,7 +139,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "9D1B788F-4F68-4490-A6D9-8E30247EF90D",
+  "symbolID": "529C61A9-1A3C-44DC-B98D-6CF3996486E3",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
